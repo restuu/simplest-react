@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Create and configure React project from scratch without `create-react-app`.",
   "scripts": {
-    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
-    "build": "webpack",
+    "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --mode development",
+    "build": "./node_modules/webpack/bin/webpack.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
