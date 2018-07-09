@@ -1,2 +1,2 @@
 # simplest-react
-Create and Configure React project from scratch without `create-react-app`.
+Create and configure React project from scratch without `create-react-app`.
