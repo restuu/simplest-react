@@ -2,7 +2,10 @@
 .DS_Store
 
 # VSCode Workspace Settings
-.vscode
+.vscode/
+
+# Dist
+dist/
 
 # Logs
 logs
